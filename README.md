@@ -1,5 +1,10 @@
 <h1> Hola mi nombre es Osvaldo! 👋</h1>
 
+💻 Soy un estudiante de ingeneria en sistemas.
+👨‍🔬 <strong>proximo data DataScients</strong>
+🖼  Amante de las pinturas.
+🪐 Apacionado del espacio y la fisica.
+
 <!--
 **osvi-dev/osvi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
