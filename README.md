@@ -1,8 +1,8 @@
 <h1> Hola mi nombre es Osvaldo! 👋</h1>
 
-💻 Soy un estudiante de ingeneria en sistemas. <br>
-👨‍🔬 <strong>proximo data DataScients</strong> <br>
-🖼  Amante de las pinturas. <br>
+💻 Soy un estudiante de ingeneria en sistemas. </br>
+👨‍🔬 <strong>Proximo DataScients.</strong> </br>
+🖼  Amante de las pinturas. </br>
 🪐 Apacionado del espacio y la fisica.
 
 <!--
