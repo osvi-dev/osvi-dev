@@ -33,6 +33,13 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)
 
+### OS 
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
+
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=osvi-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=osvi-dev&theme=dark&hide_border=true)
