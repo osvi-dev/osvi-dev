@@ -12,7 +12,6 @@
 
 # 💻 Tech Stack
 ### Programming & Development
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?logo=javafx&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?logo=gnu-bash&logoColor=white)
