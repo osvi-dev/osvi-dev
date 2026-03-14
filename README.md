@@ -27,7 +27,6 @@ I am a Computer Systems Engineer driven by the intersection of robust software d
 
 ## 📈 Education & Leadership
 
-* 🎓 **M.S. in Data Science with AI** – DEV.F (In progress)
 * 🎓 **B.S. in Computer Systems Engineering** – Instituto Tecnológico de Morelia
 * 🏆 **Former Event Organizer** – IEEE Computer Society Student Branch Morelia
 * 🏅 **Certifications:** Machine Learning Engineering for Production (MLOps), Docker & Kubernetes, PostgreSQL for Data Science.
